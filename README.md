@@ -11,4 +11,4 @@ Staff-level Frontend Engineer in Dublin. I implement and scale **design systems*
 **Currently:** Senior UX Developer (contract) at Fidelity Investments, implementing the design system across 20+ applications
 **Open source:** contributor to [The Lounge](https://github.com/thelounge/thelounge) (6.4k★), [merged PR #2955](https://github.com/thelounge/thelounge/pull/2955)
 
-📫 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/moundahiwale/))
+📫 [LinkedIn](https://www.linkedin.com/in/moundahiwale/)
